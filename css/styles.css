@@ -5,11 +5,10 @@ padding: 12px;
 image-orientation: from-image;
 }
 
-.center{
-  margin: auto;
-  width:50%;
-  padding: 10px;
+img  {
+  float: right;
 }
+
 
 a{
   font-size: 20px;
