@@ -6,7 +6,7 @@
 
 ## Description
 
-_This application displays my picture and lists some projects I have developed along with my background and current interests_
+_This application displays my picture and lists some projects I have developed along with my background and current interests._
 
 ## Setup/Installation Requirements
 
@@ -16,7 +16,7 @@ _This application displays my picture and lists some projects I have developed a
 
 ## Known Bugs
 
-_There are no known bugs. If you find one please contact me at bryonparis@gmail.com_
+_There are no known bugs._
 
 ## Support and contact details
 
