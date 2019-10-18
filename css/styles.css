@@ -1,5 +1,6 @@
 img {
-height: 500px;
-width: 700px;
+height: 700px;
+width: 530px;
 padding: 12px;
+image-orientation: from-image;
 }
