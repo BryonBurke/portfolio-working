@@ -1,9 +1,11 @@
 img {
-height: 700px;
-width: 530px;
-padding: 12px;
-image-orientation: from-image;
+  max-height: 100%;
+  max-width: 100%;
+  padding: 12px;
 }
+
+
+
 
 img  {
   float: right;
